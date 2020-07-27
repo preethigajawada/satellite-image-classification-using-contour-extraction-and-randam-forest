@@ -1,1 +1,1 @@
-# satellite-image-classification-using-contour-extraction-and-randam-forest
+# satellite-image-classification
